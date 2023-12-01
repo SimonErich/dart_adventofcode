@@ -1,4 +1,4 @@
-import 'package:aoc/config/session.dart.example';
+import 'package:aoc/config/session.dart';
 import 'package:http/http.dart';
 
 /// Fetches content from the Advent of Code website with a provided [sessionId] in config.
