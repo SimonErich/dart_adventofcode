@@ -1,1 +1,4 @@
-String sessionId = '';
+// Copy/Rename this file to `session.dart` and add your session ID below.
+//
+// To get your session Id log in to adventofcode and then get the session ID from "Developer Tools" (F12) -> "Application" -> "Cookies" -> "session" (copy the value) 
+String sessionId = 'ADD_YOUR_SESSION_ID_HERE';
