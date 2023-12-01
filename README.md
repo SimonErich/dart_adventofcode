@@ -8,6 +8,10 @@ This `dart` boilerplate can be used to quickly get started with the [adventofcod
 
 The easiest way to get started is by forking this boilerplate and then working in your fork. :)
 
+### Install dependencies
+
+Run `dart pub get` to fetch all the dependencies for this.
+
 ### ⚓ Get the session ID
 
 To get started, you just have to get your session token by logging in to adventofcode and then get the session ID from "Developer Tools" (F12) -> "Application" -> "Cookies" -> "session" (copy the value) and insert it into the `config/session.dart` (copy/rename the `lib/config/session.dart.example`) file of this project.
